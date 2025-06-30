@@ -40,7 +40,7 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
