@@ -43,17 +43,17 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
-```
 > Answer: The survey aims to assess the reasons that cause the high turnover rate in the entry- and lower-level-employees so that the company can implement actionable improvements to enhance employee satisfaction and retention. 
 
+
 Describe your target population, sampling frame, sampling units, and observational units:
-```
 > Answer: 
 + Target population: All current and recently departed entry- and lower-level employees across all departments within the company.
 + Sampling frame: A list of current employees in the HR database and exit interview contact records for employees who left within the last 6 months.
 + Sampling units: individual employee
 + Observational units: individual employee
 + Sampling strategy: Stratified sampling to ensure balanced representation across departments, gender, and length of service. Within each stratum, a sample will be randomly drawn from both current and recently departed employees.
+
 
 
 Your 5-10 question survey:
@@ -91,7 +91,6 @@ Identify and describe survey features:
 
 ```
 > Answer: 
-```
 1. Sample type: Statified sampling. The strata are provices/census metropolitan areas.
 2. Sample size: approx. 50,000 sample units (groups of phones associated with an address, or single phone number). 
 3. Target population : all persons 15 years of age and older living in the ten province of Canada, excluding full-time (residing for more than six months) residents of institutions. 
@@ -105,6 +104,7 @@ Identify and describe survey features:
 11. Sources of error: Common sources came from imperfect coverage and non response. The chosen frame excluded households without telephones or without numbers listed in the chosen sources for the frame. Non-response could also occurr at both the stage of selecting a household and at the stage of having an individual from the answer respond. 
 12. Limitations, known biases, etc: Known biases are non-reponse bias, particularly to questions around income and household composition. In the 2018 stody, this was mitigated by the linkages to census and tax records. This study also excludes people in the territories altogether. 
 13. Link to documentation and any additional sources used: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
+
 
 ## Rubric
 
