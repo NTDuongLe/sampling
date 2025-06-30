@@ -44,26 +44,45 @@ The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
-```
+> Answer: The survey aims to assess the reasons that cause the high turnover rate in the entry- and lower-level-employees so that the company can implement actionable improvements to enhance employee satisfaction and retention. 
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
-```
+> Answer: 
++ Target population: All current and recently departed entry- and lower-level employees across all departments within the company.
++ Sampling frame: A list of current employees in the HR database and exit interview contact records for employees who left within the last 6 months.
++ Sampling units: individual employee
++ Observational units: individual employee
++ Sampling strategy: Stratified sampling to ensure balanced representation across departments, gender, and length of service. Within each stratum, a sample will be randomly drawn from both current and recently departed employees.
+
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. On a scale of 1–10, how satisfied were/are you with your job overall?
+(1 = Not satisfied at all, 10 = Extremely satisfied)
+
+2. What were the top 3 factors influencing your decision to stay or leave the company?
+(Select all that apply)
+a. Job responsibilities 
+b. Career advancement opportunities
+c. Work-life balance
+d. Lack of recognition
+e. Compensation
+f. Management/leadership
+g. Company culture
+h. Other: _______
+
+3. How would you rate the communication and feedback from your direct supervisor?
+(1 = Very poor, 5 = Excellent)
+
+4. Do/did you feel that your work was valued by your team and manager?
+a. Yes
+b. No
+c. Not sure
+
+5. Is there anything else you'd like to share about your experience with the company?
+(Open-ended)
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,8 +90,21 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+> Answer: 
 ```
+1. Sample type: Statified sampling. The strata are provices/census metropolitan areas.
+2. Sample size: approx. 50,000 sample units (groups of phones associated with an address, or single phone number). 
+3. Target population : all persons 15 years of age and older living in the ten province of Canada, excluding full-time (residing for more than six months) residents of institutions. 
+4. Sampling frame: landline and cell phone numbers for the Census and various administrative sources within Statistics Canada's dwelling frame, grouped by address they are associated with if available. From the groups, only one individual would be interviewed.
+5. Survey mode(s) : electronic questionnaire or CATI (computer assisted telephone interviewing) in english or french.
+6. Timeline: Data was collected between 2018-09-04 and 2018-12-28.
+7. Response rate: 41.9%.
+8. Weights: Estimation weights adjusting for the proportion of the population that would be 'rejected' for not being volunteers, for weighted income distribution matching the 2017 CIS distribution by province, and to ensure representation of independent estimatrs for various age-sex groups by province. Bootstrap weights were also created for design-based variance estimation.
+9. Data processing: Data was linked to personal tax records for respondents, and tax records of all household members. Address, household and respondent personal information was also linked to provide data on location, demographics, income information, and demographics of the rest of the household. This was all done with the consent of respondents, with the option for respondents to object to the linkage of their data.
+10. Cleaning, imputation, etc: Cleaning involved automatic and manual edits at various stages and levels. Family relationships were checked to ensure the integrity of matrix data. An example of another check that was done to ensure consistency of data was to compare the respondent age and respondent birth date. Imputation was done using donor records that would be scored based on similarity to respondent, in which the highest scored donor record was deemed the 'nearest' and the missing information was filled using this donor record. Imputation was done in nine steps, with info such as personal and family income first, and variables in the donation file and solicitation file coming last.
+11. Sources of error: Common sources came from imperfect coverage and non response. The chosen frame excluded households without telephones or without numbers listed in the chosen sources for the frame. Non-response could also occurr at both the stage of selecting a household and at the stage of having an individual from the answer respond. 
+12. Limitations, known biases, etc: Known biases are non-reponse bias, particularly to questions around income and household composition. In the 2018 stody, this was mitigated by the linkages to census and tax records. This study also excludes people in the territories altogether. 
+13. Link to documentation and any additional sources used: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 
 ## Rubric
 
